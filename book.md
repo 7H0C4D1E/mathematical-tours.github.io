@@ -30,9 +30,20 @@ Chapters Available as Individual PDFs
 - [Inverse Problems](book-sources/chapters-pdf/inverse-problems.pdf)
 - [Sparse Regularization](book-sources/chapters-pdf/sparse-regularization.pdf)
 - [Convex Analysis](book-sources/chapters-pdf/convex-analysis.pdf)
+- [Gradient Descent Methods](book-sources/chapters-pdf/optim-smooth.pdf)
+- [Non Smooth Optimization](book-sources/chapters-pdf/optim-nonsmooth.pdf)
 - [Theory of Sparse Regularization](book-sources/chapters-pdf/sparse-theory.pdf)
-- [Convex Optimization](book-sources/chapters-pdf/convex-optimization.pdf)
 - [Compressed Sensing](book-sources/chapters-pdf/compressed-sensing.pdf)
 - [Machine Learning](book-sources/chapters-pdf/machine-learning.pdf)
 - [Deep-Learning](book-sources/chapters-pdf/deep-learning.pdf)
-- [Optimal Transport](book-sources/chapters-pdf/optimal-transport.pdf)
+
+Optimization for Machine Learning
+----------------
+
+Dedicated course notes covering specifically optimization and its applications in ML is [available as a separate PDF file](book-sources/optim-ml/OptimML.pdf).
+
+
+Optimal Transport
+----------------
+
+Dedicated course notes covering specifically optimal transport is [available as a separate PDF file](book-sources/optimal-transport/CourseOT.pdf). You can also check [the dedicated book](https://optimaltransport.github.io/) for a more detailed treatment of the algorithmic aspects. 
